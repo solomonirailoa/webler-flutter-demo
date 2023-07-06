@@ -9,6 +9,9 @@ This is a demo of Webler app with Flutter. This project helps us to develop the 
 
 Special note: The desktop applications version will be similar to the Tablet preview.
 
+<h1>Important Code</h1>
 The main source file is in <code>/lib/main.dart</code>
 
-under the folders /ios, /android, /linux, /macos, /windows, etc are where you can find image resources like favicons and launcher icons that you can customize especially for the current Webler logo.
+<h2>Logos and Icons</h2>
+under the folders <code>/ios</code>, <code>/android</code>, <code>/linux</code>, <code>/macos</code>, <code>/windows</code>, etc are where you can find image resources like favicons and launcher icons that you can customize especially for the current Webler logo.
+
